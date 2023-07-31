@@ -2,7 +2,7 @@
 
 The Task Manager Web App is a comprehensive and user-friendly task management application designed to help you stay organized and productive.
 
-![Task Manager Web App Screenshot]((https://i.ibb.co/sCf8hQ0/To-Do-List-and-4-more-pages-Personal-Microsoft-Edge-31-07-2023-23-56-06.png))
+![Task Manager Web App Screenshot](https://i.ibb.co/sCf8hQ0/To-Do-List-and-4-more-pages-Personal-Microsoft-Edge-31-07-2023-23-56-06.png)
 
 ## Introduction
 
